@@ -166,8 +166,8 @@ return [
         /*
          * Package Service Providers...
          */
+        Laravel\Passport\PassportServiceProvider::class, // davery
 
-        //
 
         /*
          * Application Service Providers...
